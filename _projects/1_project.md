@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Thermal management of klystron amplifier
+description: HyperVapotran effect was used to resolve the excessive temperature rise in klystron amplifier. RPI model was used for CFD analysis in ANSYS CFX to encounter hypervapotran effect in klystron amplifier, which divides heat flux coming from wall to convective, evaporative and quenching heat flux into liquid. Different structures were analyzed for the examination of maximum heat transfer to the liquid.
 img: assets/img/12.jpg
 importance: 1
 category: work
